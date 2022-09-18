@@ -1,0 +1,15 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    position: relative;
+}
+
+canvas {
+    background-color: #473482;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
